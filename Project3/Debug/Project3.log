@@ -1,0 +1,33 @@
+﻿  SignUp.cpp
+D:\github\chat28\Project3\QueryFilter.h(33,20): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::Column' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(12): message : see declaration of 'DBRepository::QueryFilter::Column'
+D:\github\chat28\Project3\QueryFilter.h(62,25): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::OrderResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(14): message : see declaration of 'DBRepository::QueryFilter::OrderResult'
+D:\github\chat28\Project3\QueryFilter.h(79,26): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::FilterResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(13): message : see declaration of 'DBRepository::QueryFilter::FilterResult'
+D:\github\chat28\Project3\QueryFilter.h(101,25): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::AndOrResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(15): message : see declaration of 'DBRepository::QueryFilter::AndOrResult'
+D:\github\chat28\Project3\SignIn.h(251,21): warning C4101: 'e': unreferenced local variable
+  main.cpp
+D:\github\chat28\Project3\QueryFilter.h(33,20): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::Column' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(12): message : see declaration of 'DBRepository::QueryFilter::Column'
+D:\github\chat28\Project3\QueryFilter.h(62,25): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::OrderResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(14): message : see declaration of 'DBRepository::QueryFilter::OrderResult'
+D:\github\chat28\Project3\QueryFilter.h(79,26): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::FilterResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(13): message : see declaration of 'DBRepository::QueryFilter::FilterResult'
+D:\github\chat28\Project3\QueryFilter.h(101,25): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::AndOrResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(15): message : see declaration of 'DBRepository::QueryFilter::AndOrResult'
+D:\github\chat28\Project3\signIn.h(251,21): warning C4101: 'e': unreferenced local variable
+  signIn.cpp
+D:\github\chat28\Project3\QueryFilter.h(33,20): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::Column' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(12): message : see declaration of 'DBRepository::QueryFilter::Column'
+D:\github\chat28\Project3\QueryFilter.h(62,25): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::OrderResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(14): message : see declaration of 'DBRepository::QueryFilter::OrderResult'
+D:\github\chat28\Project3\QueryFilter.h(79,26): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::FilterResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(13): message : see declaration of 'DBRepository::QueryFilter::FilterResult'
+D:\github\chat28\Project3\QueryFilter.h(101,25): warning C4240: nonstandard extension used: access to 'DBRepository::QueryFilter::AndOrResult' now defined to be 'public', previously it was defined to be 'protected'
+D:\github\chat28\Project3\QueryFilter.h(15): message : see declaration of 'DBRepository::QueryFilter::AndOrResult'
+D:\github\chat28\Project3\signIn.h(251,21): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project3.vcxproj -> D:\github\chat28\Debug\Project3.exe
