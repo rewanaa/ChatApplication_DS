@@ -899,18 +899,7 @@ void::Project3::chatroom::select8_Click(System::Object^ sender, System::EventArg
 		pn_shows->BringToFront();
 		
 	}
-	//void::Project3::chatroom::richTextBox4_TextChanged(System::Object^ sender, System::EventArgs^ e) {
-	//	while (richTextBox4->Visible == true)
-	//	{
-	//		pictureBox25->Visible == false;
-	//	}
-	//}
-	//void::Project3::chatroom::pictureBox25_Click(System::Object^ sender, System::EventArgs^ e) {
-	//	while (pictureBox25->Visible == true)
-	//	{
-	//		richTextBox4->Visible == false;
-	//	}
-	//}
+
 	void::Project3::chatroom::label6_Click_1(System::Object^ sender, System::EventArgs^ e) {
 
 	}
@@ -924,11 +913,13 @@ void::Project3::chatroom::select8_Click(System::Object^ sender, System::EventArg
 				richTextBox5->Visible = false;
 				pictureBox26->ImageLocation = contactsStoriesList[storyIndx]->storyPhoto;
 				pictureBox26->Image = System::Drawing::Image::FromFile(contactsStoriesList[storyIndx]->storyPhoto);
+				pictureBox26->Visible = true;
 			}
 			else
 			{
 				pictureBox26->Visible = false;
 				richTextBox5->Text = contactsStoriesList[storyIndx]->storyText;
+				richTextBox5->Visible = true;
 			}
 		storyIndx--;
 		}
@@ -943,11 +934,13 @@ void::Project3::chatroom::select8_Click(System::Object^ sender, System::EventArg
 				richTextBox5->Visible = false;
 				pictureBox26->ImageLocation = contactsStoriesList[storyIndx]->storyPhoto;
 				pictureBox26->Image = System::Drawing::Image::FromFile(contactsStoriesList[storyIndx]->storyPhoto);
+				pictureBox26->Visible = true;
 			}
 			else
 			{
 				pictureBox26->Visible = false;
 				richTextBox5->Text = contactsStoriesList[storyIndx]->storyText;
+				richTextBox5 -> Visible = true;
 			}
 		storyIndx++;
 		}
