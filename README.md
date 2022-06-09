@@ -1,5 +1,5 @@
 # About Project :
-chat app with c++ using windows forms and SQL server
+chat app with c++ using windows forms, SQL server and OOP concepts.
 
 
 ## To run the code :
