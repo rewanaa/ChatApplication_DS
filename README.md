@@ -14,5 +14,6 @@ chat app with c++ using windows forms, SQL server and OOP concepts.
 - [Raneem Loay](https://github.com/RaneemLoay)
 - [Rawan Alaa](https://github.com/12Rawan) 
 - [Rewan Ayman](https://github.com/rewanaa) 
+- [Mai Abdelnaby]() 
 - [Mai Atef](https://github.com/MaiAteff) 
-- [Mai ]() 
+
